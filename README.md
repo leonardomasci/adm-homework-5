@@ -3,7 +3,7 @@
 The objective of the project was to Explore Wikipedia's hyperlinks network by building a Graph structure and exploring it.
 
 ## File Descriptions
-The repository contains the "main" folder which contains the following files:
+The repository contains the following files:
 
 1. `main.ipynb`:
 
@@ -15,7 +15,7 @@ The repository contains the "main" folder which contains the following files:
           > you can find functions we used to run the notebook.
           
 ### Group's Members
-* Domenico Spoto
 * Alessandro Quattrociocchi
 * Leonardo Masci
+* Domenico Spoto
 * Vaibhav Tomar 
